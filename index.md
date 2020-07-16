@@ -2,7 +2,7 @@
 
 ## About
 
-I’m a first-year Master student in the Department of Computer Science at Shanghai Jiao Tong University (SJTU). Currently I am a member of Machine Vision and Intelligence Group (MVIG) under the supervision of [Prof. Cewu Lu](http://mvig.sjtu.edu.cn/). Prior to that, I received my Bachelor's degree (Computer Science) from Shanghai Jiao Tong University. My research interests include Computer Vision and Robotics.
+I’m a first-year Master student in the Department of Computer Science at Shanghai Jiao Tong University (SJTU). Currently I am a member of Machine Vision and Intelligence Group (MVIG) under the supervision of [Prof. Cewu Lu](http://mvig.sjtu.edu.cn/). Prior to that, I received my Bachelor's degree (Computer Science) from Shanghai Jiao Tong University. My research interests include Computer Vision.
 
 ## Publications
 
