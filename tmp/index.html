@@ -1,49 +1,54 @@
-<html>
-<head>
-  <meta charset="utf-8">
-  <title>刮刮乐</title>  
-  <style type="text/css">
-    *{margin: 0;padding: 0;}
-    .box{
-      width: 400px;
-      height: 300px;
-      position: relative;
-      text-align: center;
-      line-height: 300px;
-      font-size: 30px;
-      color: #696;
-      border:1px solid #ccc;
-    }
-    #redux{
-      position: absolute;
-      width: 400px;
-      height: 300px;
-      z-index:1;
-      left: 0;
-      top:0;
-    }
-  </style>     
-  </head>
-  <body>
-    <div class="box">
-      <p>恭喜中奖</p>
-        <img id="redux" src="1.jpg" alt="">
-    </div>
-  </body>
-  
-  <script src="query.min.js"></script>
-  <script src="jquery.eraser.js" ></script>
-  <script>
-    $(function  () { //这个适用手机端，等图片加载完再显示，因为有可能会出现第一次加载图片没有加载完就不会出现canvas
-      $('#redux').eraser( {
-        size: 30,   //设置橡皮擦大小
-        completeRatio: .3, //设置擦除面积比例
-        completeFunction: showResetButton   //大于擦除面积比例触发函数
-      });
-      function showResetButton(){
-        console.log("抽奖结束");
-        $("#redux").fadeOut(1000);
-      }
-    })
-  </script>
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+        <title>实现一个“刮刮乐”游戏</title>
+        <style type="text/css">
+            .demo {
+                width: 320px;
+                margin: 10px auto 20px auto;
+                min-height: 300px;
+            }
+            .msg {
+                text-align: center;
+                height: 32px;
+                line-height: 32px;
+                font-weight: bold;
+                margin-top: 50px;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="main">
+            <div class="msg">
+                刮刮下面图片看看什么效果哈哈哈，<a href="javascript:void(0)" id="try_again">再来一次</a>
+            </div>
+            <div class="demo">
+                <canvas id="canvas"></canvas>
+            </div>
+        </div>
+        <script src="./scrapAward-dev.js"></script>
+        <script>
+            window.onload = function() {
+                let scraAward = new ScrapAward({
+                    height: 570,
+                    backgroundImageUrl: './suporka_home.jpg',
+                    coverImage: {
+                        url: './super.jpg',
+                        // color: 'red',
+                        width: 428,
+                        height: 570,
+                    },
+                    callback: () => {
+                        alert('刮奖结束');
+                    },
+                });
+                document.getElementById('try_again').addEventListener('click', function(e) {
+                    scraAward.restart();
+                });
+            };
+        </script>
+    </body>
 </html>
