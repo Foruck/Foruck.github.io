@@ -8,7 +8,7 @@ I’m a first-year Master student in the Department of Computer Science at Shang
 
 [Google Scholar](https://scholar.google.com/citations?user=DBE-ju8AAAAJ)
 
-1. Yong-Lu Li\*, **Xinpeng Liu\***, Xiaoqian Wu, Yizhuo Li, Cewu Lu (\*=equal contribution). "HOI Analysis: Integrating and Decomposing Human-Object Interaction" NeurIPS 2020. Paper and code coming soon!
+1. Yong-Lu Li\*, **Xinpeng Liu\***, Xiaoqian Wu, Yizhuo Li, Cewu Lu (\*=equal contribution). "HOI Analysis: Integrating and Decomposing Human-Object Interaction" NeurIPS 2020. Paper and code are coming soon!
 
 2. Yong-Lu Li, **Xinpeng Liu**, Han Lu, Shiyi Wang, Junqi Liu, Jiefeng Li, and Cewu Lu. "Detailed 2D-3D Joint Representation for Human-Object Interaction." In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 10166-10175. 2020. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Detailed_2D-3D_Joint_Representation_for_Human-Object_Interaction_CVPR_2020_paper.pdf) [[Code]](https://github.com/DirtyHarryLYL/DJ-RN)
 
