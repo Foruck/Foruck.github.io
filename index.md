@@ -2,7 +2,7 @@
 
 ## About
 
-I’m a first-year Master student in the Department of Computer Science at Shanghai Jiao Tong University (SJTU). Currently I am a member of Machine Vision and Intelligence Group (MVIG) under the supervision of [Prof. Cewu Lu](http://mvig.sjtu.edu.cn/). Prior to that, I received my Bachelor's degree (Computer Science) from Shanghai Jiao Tong University. My research interests include activity understanding and computer vision.
+I’m a second-year Master student in the Department of Computer Science at Shanghai Jiao Tong University (SJTU). Currently I am a member of Machine Vision and Intelligence Group (MVIG) under the supervision of [Prof. Cewu Lu](http://mvig.sjtu.edu.cn/). Prior to that, I received my Bachelor's degree (Computer Science) from Shanghai Jiao Tong University. My research interests include activity understanding and computer vision.
 
 ## Publications
 
@@ -17,3 +17,7 @@ I’m a first-year Master student in the Department of Computer Science at Shang
 4. Yong-Lu Li, Liang Xu, **Xinpeng Liu**, Xijie Huang, Yue Xu, Shiyi Wang, Hao-Shu Fang, Ze Ma, Mingyang Chen, and Cewu Lu. "PaStaNet: Toward Human Activity Knowledge Engine." In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 382-391. 2020. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_PaStaNet_Toward_Human_Activity_Knowledge_Engine_CVPR_2020_paper.pdf) [[Code]](https://github.com/DirtyHarryLYL/HAKE-Action/tree/Instance-level-HAKE-Action)
 
 5. Yong-Lu Li, Liang Xu, **Xinpeng Liu**, Xijie Huang, Yue Xu, Mingyang Chen, Ze Ma, Shiyi Wang, Hao-Shu Fang, and Cewu Lu. "Hake: Human activity knowledge engine." arXiv preprint arXiv:1904.06539 (2019). [[Project]](http://hake-mvig.cn/home/) [[Paper]](https://arxiv.org/pdf/1904.06539) [[Code]](https://github.com/DirtyHarryLYL/HAKE-Action/tree/master)
+
+## Academic Services
+
+Reviewer for NeurIPS 2021 Track Datasets and Benchmarks
