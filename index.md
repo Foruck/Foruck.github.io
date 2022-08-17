@@ -26,4 +26,4 @@ I’m a Ph.D student under the supervision of [Prof. Cewu Lu](http://mvig.sjtu.e
 
 ## Academic Services
 
-Reviewer for NeurIPS 2021 Track Datasets and Benchmarks, CVPR 2022, ECCV 2022.
+Reviewer for NeurIPS 2021/2022 Track Datasets and Benchmarks, CVPR 2022, ECCV 2022.
