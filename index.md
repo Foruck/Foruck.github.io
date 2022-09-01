@@ -8,7 +8,7 @@ I’m a Ph.D student under the supervision of [Prof. Cewu Lu](http://mvig.sjtu.e
 
 [Google Scholar](https://scholar.google.com/citations?user=DBE-ju8AAAAJ)
 
-- Xiaoqian Wu*, Yong-Lu Li*, **Xinpeng Liu**, Junyi Zhang, Yuzhe Wu, Cewu Lu. "Mining Cross-Person Cues for Body-Part Interactiveness Learning in HOI Detection" ECCV 2022. [[Paper]](https://arxiv.org/pdf/2207.14192v1.pdf) [[Code]](https://github.com/enlighten0707/Body-Part-Map-for-Interactiveness)
+- Xiaoqian Wu\*, Yong-Lu Li\*, **Xinpeng Liu**, Junyi Zhang, Yuzhe Wu, Cewu Lu. "Mining Cross-Person Cues for Body-Part Interactiveness Learning in HOI Detection" ECCV 2022. [[Paper]](https://arxiv.org/pdf/2207.14192v1.pdf) [[Code]](https://github.com/enlighten0707/Body-Part-Map-for-Interactiveness)
 
 - **Xinpeng Liu\***, Yong-Lu Li\*, Xiaoqian Wu, Cewu Lu, Chi-Keung Tang. "Interactiveness Field in Human-Object Interactions" CVPR 2022. [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Interactiveness_Field_in_Human-Object_Interactions_CVPR_2022_paper.pdf)
 
