@@ -2,11 +2,13 @@
 
 ## About
 
-I’m a Ph.D student under the supervision of [Prof. Cewu Lu](http://mvig.sjtu.edu.cn/). Currently I am a member of Machine Vision and Intelligence Group (MVIG). Prior to that, I received my Bachelor's and Master's degrees (Computer Science) from Shanghai Jiao Tong University. My research interests include human motion understanding and activity understanding.
+I’m a first-year Ph.D student under the supervision of [Prof. Cewu Lu](http://mvig.sjtu.edu.cn/). Currently I am a member of Machine Vision and Intelligence Group (MVIG). Prior to that, I received my Bachelor's and Master's degrees (Computer Science) from Shanghai Jiao Tong University. My research interests include human motion understanding and activity understanding.
 
 ## Publications
 
 [Google Scholar](https://scholar.google.com/citations?user=DBE-ju8AAAAJ)
+
+- Yong-Lu Li, **Xinpeng Liu**, Xiaoqian Wu, Yizhuo Li, Zuoyu Qiu, Liang Xu, Yue Xu, Hao-Shu Fang, Cewu Lu. "Hake: a knowledge engine foundation for human activity understanding" TPAMI 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10002711/)
 
 - Xiaoqian Wu\*, Yong-Lu Li\*, **Xinpeng Liu**, Junyi Zhang, Yuzhe Wu, Cewu Lu. "Mining Cross-Person Cues for Body-Part Interactiveness Learning in HOI Detection" ECCV 2022. [[Paper]](https://arxiv.org/pdf/2207.14192v1.pdf) [[Code]](https://github.com/enlighten0707/Body-Part-Map-for-Interactiveness)
 
@@ -26,4 +28,4 @@ I’m a Ph.D student under the supervision of [Prof. Cewu Lu](http://mvig.sjtu.e
 
 ## Academic Services
 
-Reviewer for NeurIPS 2021/2022 Track Datasets and Benchmarks, CVPR 2022, ECCV 2022.
+Reviewer for NeurIPS, CVPR, ICCV, ECCV, IoT, TMM, JVIS, JVCIP, NeurIPS Track Datasets and Benchmarks.
