@@ -39,3 +39,7 @@ I’m a first-year Ph.D student under the supervision of [Prof. Cewu Lu](http://
 ## Academic Services
 
 Reviewer for NeurIPS, CVPR, ICCV, ECCV, IoT, TMM, JVIS, JVCIP, NeurIPS Track Datasets and Benchmarks.
+
+## Honors
+
+- Graduate Fellowship, The 85th Computer Department Education Development Fund and Yang Yuanqing Education Fund, Aug. 2022.
