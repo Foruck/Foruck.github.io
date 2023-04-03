@@ -10,7 +10,7 @@ I’m a first-year Ph.D student under the supervision of [Prof. Cewu Lu](http://
 
 - Yong-Lu Li, **Xinpeng Liu**, Xiaoqian Wu, Yizhuo Li, Zuoyu Qiu, Liang Xu, Yue Xu, Hao-Shu Fang, Cewu Lu. "Hake: a knowledge engine foundation for human activity understanding" TPAMI 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10002711/)
 
-- Xiaoqian Wu\*, Yong-Lu Li\*, **Xinpeng Liu**, Junyi Zhang, Yuzhe Wu, Cewu Lu. "Mining Cross-Person Cues for Body-Part Interactiveness Learning in HOI Detection" ECCV 2022. [[Paper]](https://arxiv.org/pdf/2207.14192v1.pdf) [[Code]](https://github.com/enlighten0707/Body-Part-Map-for-Interactiveness)
+- Xiaoqian Wu\*, Yong-Lu Li\*, **Xinpeng Liu**, Junyi Zhang, Yuzhe Wu, Cewu Lu. "Mining Cross-Person Cues for Body-Part Interactiveness Learning in HOI Detection" ECCV 2022. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-19772-7_8) [[Code]](https://github.com/enlighten0707/Body-Part-Map-for-Interactiveness)
 
 - **Xinpeng Liu\***, Yong-Lu Li\*, Xiaoqian Wu, Cewu Lu, Chi-Keung Tang. "Interactiveness Field in Human-Object Interactions" CVPR 2022. [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Interactiveness_Field_in_Human-Object_Interactions_CVPR_2022_paper.pdf)
 
@@ -27,6 +27,14 @@ I’m a first-year Ph.D student under the supervision of [Prof. Cewu Lu](http://
 ## Preprints
 
 - Yong-Lu Li, Liang Xu, **Xinpeng Liu**, Xijie Huang, Yue Xu, Mingyang Chen, Ze Ma, Shiyi Wang, Hao-Shu Fang, and Cewu Lu. "Hake: Human activity knowledge engine." arXiv preprint arXiv:1904.06539 (2019). [[Project]](http://hake-mvig.cn/home/) [[Paper]](https://arxiv.org/pdf/1904.06539) [[Code]](https://github.com/DirtyHarryLYL/HAKE-Action/tree/master)
+
+## Teaching
+
+- **Project Tutor** for SJTU CS348: Computer Vision (2022 Fall)
+
+     Co-advising "DiffAnnot: Improved Neural Annotator with Denoising Diffusion Model"; Chaofan Lin, Tianyuan Qiu, Hanchong Yan, Muzi Tao. ICIPMC 2023. [[Code]](https://github.com/PaperL/Human-3D-Diffusion)
+
+- **TA** for  SJTU AI3618: Virtual Reality (2023 Spring) 
 
 ## Academic Services
 
