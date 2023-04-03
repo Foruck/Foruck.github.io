@@ -38,7 +38,9 @@ I’m a first-year Ph.D student under the supervision of [Prof. Cewu Lu](http://
 
 ## Academic Services
 
-Reviewer for NeurIPS, CVPR, ICCV, ECCV, IoT, TMM, JVIS, JVCIP, NeurIPS Track Datasets and Benchmarks.
+- Journal Reviewer: NeurIPS, CVPR, ICCV, ECCV, NeurIPS Track Datasets and Benchmarks.
+
+- Conference Reviewer: IoT, TMM, JVIS, JVCIP.
 
 ## Honors
 
