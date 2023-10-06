@@ -9,7 +9,7 @@
   <meta property="og:description" content="Bridging the Gap between Human Motion and Action Semantics via Kinematic Phrases"/>
   <meta property="og:url" content="URL OF THE WEBSITE"/>
   <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X630-->
-  <meta property="og:image" content="static/image/your_banner_image.png" />
+  <meta property="og:image" content="static/image/4_fig1.png" />
   <meta property="og:image:width" content="1200"/>
   <meta property="og:image:height" content="630"/>
 
@@ -17,7 +17,7 @@
   <meta name="twitter:title" content="Bridging the Gap between Human Motion and Action Semantics via Kinematic Phrases">
   <meta name="twitter:description" content="Kinematic Phrases represent human motion based on objective kinematic facts, empowering reliable motion understanding and motion generation evaluation.">
   <!-- Path to banner image, should be in the path listed below. Optimal dimenssions are 1200X600-->
-  <meta name="twitter:image" content="static/images/your_twitter_banner_image.png">
+  <meta name="twitter:image" content="static/images/4_fig1.png">
   <meta name="twitter:card" content="summary_large_image">
   <!-- Keywords for your paper to be indexed by-->
   <meta name="keywords" content="Motion Representation, Motion Generation">
@@ -68,7 +68,7 @@
 
               <!-- arXiv Link. -->
               <span class="link-block">
-                <a href="https://arxiv.org/abs/2309.17448" target="_blank"
+                <a href="https://arxiv.org/abs/" target="_blank"
                    class="external-link button is-normal is-rounded is-dark">
                   <span class="icon">
                       <i class="ai ai-arxiv"></i>
@@ -84,7 +84,7 @@
                   <!-- <span class="icon"> -->
                       <!-- <i class="fas fa-file-pdf"></i> -->
                   <!-- </span> -->
-                  <!-- <span>Paper(Coming Soon)</span> -->
+                  <!-- <span>Paper</span> -->
                 <!-- </a> -->
               <!-- </span> -->
 
@@ -105,7 +105,7 @@
                   <span class="icon">
                       <i class="fab fa-github"></i>
                   </span>
-                  <span>Code & Data (Comming Soon)</span>
+                  <span>Code (Comming Soon)</span>
                   </a>
               </span>
 
@@ -159,6 +159,12 @@
            </h2>
          </div>
          <div class="item" alignment="middle">
+           <img src="static/images/4_kpb.png" alt="MY ALT TEXT"/>
+           <h2 class="subtitle has-text-centered">
+             The designed KP enables us to unify motion data with different formats to construct a large-scale knowledge base containing motion, text, and KP. We collect 192 thousands motion sequences from 12 datasets as our Kinematic Phrase Base, containing 48 thousands text descriptions with 7,000 words.
+           </h2>
+         </div>
+         <div class="item" alignment="middle">
            <img src="static/images/4_fig2.png" alt="MY ALT TEXT"/>
            <h2 class="subtitle has-text-centered">
               Six types of KP from four kinematic hierarchies are extracted from a motion sequence. A scalar indicator is calculated per Phrase per frame. Its sign categorizes the corresponding Phrase.
@@ -177,11 +183,11 @@
 <!-- End image carousel -->
 
 <!-- Teaser video-->
-<section class="hero teaser">
-  <div class="container is-max-desktop">
+<section class="hero is-small">
+  <div class="hero-body">
+  <div class="container">
     <h2 class="title is-3">Qualitative Results</h2>
-    <div class="hero-body">
-      <video poster="" id="tree" autoplay controls muted loop height="100%">
+      <video poster="" id="tree" autoplay controls loop width="125%" height="125%">
         <!-- Your video here -->
         <source src="static/videos/qual.mp4" type="video/mp4">
       </video>
@@ -190,19 +196,39 @@
 </section>
 <!-- End teaser video -->
 
-<!-- Paper poster -->
-<section class="hero is-small is-light">
+<!-- Image carousel -->
+<section class="hero is-small">
   <div class="hero-body">
     <div class="container">
       <h2 class="title is-3">Kinematic Prompt Generation</h2>
-      <img src="static/images/kpg.png" alt="MY ALT TEXT"/>
-      <h2 class="subtitle has-text-centered">
-        Moreover, we propose a novel benchmark named Kinematic Prompts Generation for motion generation. KPG focuses on evaluating whether the models could generate motion sequences corresponding to specific kinematic facts given text prompts. In specific, the model is required to generate motion sequences upon text prompts converted from KP. Then, the semantic consistency could be directly examined by comparing the original KP and the KP converted from the generated motion sequence.
-      </h2>
+      <div id="results-carousel" class="carousel results-carousel">
+         <div class="item" alignment="middle">
+           <img src="static/images/4_kpg.png" alt="MY ALT TEXT"/>
+           <h2 class="subtitle has-text-centered">
+             Moreover, we propose a novel benchmark named Kinematic Prompts Generation for motion generation. KPG focuses on evaluating whether the models could generate motion sequences corresponding to specific kinematic facts given text prompts. In specific, the model is required to generate motion sequences upon text prompts converted from KP. Then, the semantic consistency could be directly examined by comparing the original KP and the KP converted from the generated motion sequence.
+           </h2>
+         </div>
+         <div class="item" alignment="middle">
+           <img src="static/images/4_kpg_res.png" alt="MY ALT TEXT"/>
+           <h2 class="subtitle has-text-centered">
+              Experiment and user-study results show the consistency between KP-inferred accuracy and user reviews. Our KP-based method manage provide superior performance for both automatic metrics and user study.
+           </h2>
+         </div>
+         <div class="item item-video2">
+          <video poster="" id="video2" autoplay controls muted loop height="100%">
+            <!-- Your video file here -->
+            <source src="static/videos/kpg_samples.mp4" type="video/mp4">
+          </video>
+          <h2 class="subtitle has-text-centered">
+             We illustrate some generated samples from KPG.
+          </h2>
+        </div>
       </div>
     </div>
-  </section>
-<!--End paper poster -->
+  </div>
+</section>
+<!-- End image carousel -->
+
 
 <footer class="footer">
   <div class="container">
