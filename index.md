@@ -2,7 +2,7 @@
 
 ## About
 
-I’m a first-year Ph.D student under the supervision of [Prof. Cewu Lu](http://mvig.sjtu.edu.cn/). Currently I am a member of Machine Vision and Intelligence Group (MVIG). Prior to that, I received my Bachelor's and Master's degrees (Computer Science) from Shanghai Jiao Tong University. My research interests include human motion understanding and activity understanding.
+I’m a second-year Ph.D student under the supervision of [Prof. Cewu Lu](http://mvig.sjtu.edu.cn/). Currently I am a member of Machine Vision and Intelligence Group (MVIG). Prior to that, I received my Bachelor's and Master's degrees (Computer Science) from Shanghai Jiao Tong University. My research interests include human motion understanding and activity understanding.
 
 ## Publications
 
