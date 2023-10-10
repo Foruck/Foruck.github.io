@@ -8,8 +8,6 @@ I’m a first-year Ph.D student under the supervision of [Prof. Cewu Lu](http://
 
 [Google Scholar](https://scholar.google.com/citations?user=DBE-ju8AAAAJ)
 
-- Xinpeng Liu, Yong-Lu Li, Ailing Zeng, Zizheng Zhou, Yang You, Cewu Lu. "Bridging the Gap between Human Motion and Action Semantics via Kinematic Phrases" arXiv preprint. [[Paper]](https://arxiv.org/abs/2310.04189)[[Page](https://foruck.github.io/KP/)]
-
 - Yong-Lu Li, **Xinpeng Liu**, Xiaoqian Wu, Yizhuo Li, Zuoyu Qiu, Liang Xu, Yue Xu, Hao-Shu Fang, Cewu Lu. "Hake: a knowledge engine foundation for human activity understanding" TPAMI 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10002711/)
 
 - Xiaoqian Wu\*, Yong-Lu Li\*, **Xinpeng Liu**, Junyi Zhang, Yuzhe Wu, Cewu Lu. "Mining Cross-Person Cues for Body-Part Interactiveness Learning in HOI Detection" ECCV 2022. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-19772-7_8) [[Code]](https://github.com/enlighten0707/Body-Part-Map-for-Interactiveness)
@@ -27,6 +25,8 @@ I’m a first-year Ph.D student under the supervision of [Prof. Cewu Lu](http://
 - Yong-Lu Li, Liang Xu, **Xinpeng Liu**, Xijie Huang, Yue Xu, Shiyi Wang, Hao-Shu Fang, Ze Ma, Mingyang Chen, and Cewu Lu. "PaStaNet: Toward Human Activity Knowledge Engine." In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 382-391. 2020. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_PaStaNet_Toward_Human_Activity_Knowledge_Engine_CVPR_2020_paper.pdf) [[Code]](https://github.com/DirtyHarryLYL/HAKE-Action/tree/Instance-level-HAKE-Action)
 
 ## Preprints
+
+- Xinpeng Liu, Yong-Lu Li, Ailing Zeng, Zizheng Zhou, Yang You, Cewu Lu. "Bridging the Gap between Human Motion and Action Semantics via Kinematic Phrases" arXiv preprint. [[Paper]](https://arxiv.org/abs/2310.04189)[[Page](https://foruck.github.io/KP/)]
 
 - Yong-Lu Li, Liang Xu, **Xinpeng Liu**, Xijie Huang, Yue Xu, Mingyang Chen, Ze Ma, Shiyi Wang, Hao-Shu Fang, and Cewu Lu. "Hake: Human activity knowledge engine." arXiv preprint arXiv:1904.06539 (2019). [[Project]](http://hake-mvig.cn/home/) [[Paper]](https://arxiv.org/pdf/1904.06539) [[Code]](https://github.com/DirtyHarryLYL/HAKE-Action/tree/master)
 
