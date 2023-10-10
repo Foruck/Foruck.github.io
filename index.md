@@ -8,6 +8,8 @@ I’m a first-year Ph.D student under the supervision of [Prof. Cewu Lu](http://
 
 [Google Scholar](https://scholar.google.com/citations?user=DBE-ju8AAAAJ)
 
+- Xinpeng Liu, Yong-Lu Li, Ailing Zeng, Zizheng Zhou, Yang You, Cewu Lu. "Bridging the Gap between Human Motion and Action Semantics via Kinematic Phrases" arXiv preprint. [[Paper]](https://arxiv.org/abs/2310.04189)[[Page](https://foruck.github.io/KP/)]
+
 - Yong-Lu Li, **Xinpeng Liu**, Xiaoqian Wu, Yizhuo Li, Zuoyu Qiu, Liang Xu, Yue Xu, Hao-Shu Fang, Cewu Lu. "Hake: a knowledge engine foundation for human activity understanding" TPAMI 2023. [[Paper]](https://ieeexplore.ieee.org/abstract/document/10002711/)
 
 - Xiaoqian Wu\*, Yong-Lu Li\*, **Xinpeng Liu**, Junyi Zhang, Yuzhe Wu, Cewu Lu. "Mining Cross-Person Cues for Body-Part Interactiveness Learning in HOI Detection" ECCV 2022. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-19772-7_8) [[Code]](https://github.com/enlighten0707/Body-Part-Map-for-Interactiveness)
