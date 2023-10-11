@@ -40,9 +40,9 @@ I’m a second-year Ph.D student under the supervision of [Prof. Cewu Lu](http:/
 
 ## Academic Services
 
-- Journal Reviewer: ICLR, NeurIPS, CVPR, ICCV, ECCV, NeurIPS Track Datasets and Benchmarks.
+- Conference Reviewer: ICLR, NeurIPS, CVPR, ICCV, ECCV, NeurIPS Track Datasets and Benchmarks.
 
-- Conference Reviewer: IoT, TMM, JVIS, JVCIP.
+- Journal Reviewer: IoT, TMM, JVIS, JVCIP.
 
 ## Honors
 
