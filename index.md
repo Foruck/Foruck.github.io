@@ -26,6 +26,8 @@ I’m a second-year Ph.D student under the supervision of [Prof. Cewu Lu](http:/
 
 ## Preprints
 
+- **Xinpeng Liu\***, Haowen Hou\*, Yanchao Yang, Yong-Lu Li, and Cewu Lu (*=equal contribution). "Revisit Human-Scene Interaction via Space Occupancy" arXiv preprint. [[Paper]](https://arxiv.org/abs/2312.02700)[[Page]](https://foruck.github.io/occu-page/).
+
 - **Xinpeng Liu**, Yong-Lu Li, Ailing Zeng, Zizheng Zhou, Yang You, and Cewu Lu. "Bridging the Gap between Human Motion and Action Semantics via Kinematic Phrases" arXiv preprint. [[Paper]](https://arxiv.org/abs/2310.04189)[[Page](https://foruck.github.io/KP/)]
 
 - Yong-Lu Li, Liang Xu, **Xinpeng Liu**, Xijie Huang, Yue Xu, Mingyang Chen, Ze Ma, Shiyi Wang, Hao-Shu Fang, and Cewu Lu. "Hake: Human activity knowledge engine." arXiv preprint arXiv:1904.06539 (2019). [[Project]](http://hake-mvig.cn/home/) [[Paper]](https://arxiv.org/pdf/1904.06539) [[Code]](https://github.com/DirtyHarryLYL/HAKE-Action/tree/master)
