@@ -8,7 +8,11 @@ I’m a second-year Ph.D student under the supervision of [Prof. Cewu Lu](http:/
 
 [Google Scholar](https://scholar.google.com/citations?user=DBE-ju8AAAAJ)
 
-- Yong-Lu Li, **Xinpeng Liu**, Xiaoqian Wu, Yizhuo Li, Zuoyu Qiu, Liang Xu, Yue Xu, Hao-Shu Fang, Cewu Lu. "Hake: a knowledge engine foundation for human activity understanding." IEEE Transactions on Pattern Analysis and Machine Intelligence (2022). [[Paper]](https://ieeexplore.ieee.org/abstract/document/10002711/)
+- Yong-Lu Li*, Xiaoqian Wu*, **Xinpeng Liu**, Zehao Wang, Yiming Dou, Yikun Ji, Junyi Zhang, Yixing Li, Xudong Lu, Jingru Tan, Cewu Lu. "From Isolated Islands to Pangea: Unifying Semantic Space for Human Action Understanding." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024. [[Paper]](https://arxiv.org/pdf/2304.00553.pdf) [[Project]](https://mvig-rhos.com/pangea) [[Code]](https://github.com/DirtyHarryLYL/Sandwich)
+
+- Siqi Liu, Yong-Lu Li, Zhou Fang, **Xinpeng Liu**, Yang You, Cewu Lu. "Primitive-based 3D Human-Object Interaction Modelling and Programming." Proceedings of the AAAI Conference on Artificial Intelligence. 2024. [[Paper]](https://arxiv.org/abs/2312.10714) [[Project]](https://mvig-rhos.com/p3haoi)
+
+- Yong-Lu Li, **Xinpeng Liu**, Xiaoqian Wu, Yizhuo Li, Zuoyu Qiu, Liang Xu, Yue Xu, Hao-Shu Fang, Cewu Lu. "Hake: a knowledge engine foundation for human activity understanding." IEEE Transactions on Pattern Analysis and Machine Intelligence (2023). [[Paper]](https://ieeexplore.ieee.org/abstract/document/10002711/)
 
 - Xiaoqian Wu\*, Yong-Lu Li\*, **Xinpeng Liu**, Junyi Zhang, Yuzhe Wu, Cewu Lu. "Mining Cross-Person Cues for Body-Part Interactiveness Learning in HOI Detection." European Conference on Computer Vision (pp. 121-136). Cham: Springer Nature Switzerland. [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-19772-7_8) [[Code]](https://github.com/enlighten0707/Body-Part-Map-for-Interactiveness)
 
