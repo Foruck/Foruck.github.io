@@ -42,11 +42,11 @@ I’m a second-year Ph.D student under the supervision of [Prof. Cewu Lu](http:/
 
      Co-advising "DiffAnnot: Improved Neural Annotator with Denoising Diffusion Model"; Chaofan Lin, Tianyuan Qiu, Hanchong Yan, Muzi Tao. ICIPMC 2023. [[Code]](https://github.com/PaperL/Human-3D-Diffusion)
 
-- **TA** for  SJTU AI3618: Virtual Reality (2023 Spring) 
+- **TA** for  SJTU AI3618: Virtual Reality (2023 Spring, 2024 Spring) 
 
 ## Academic Services
 
-- Conference Reviewer: ICLR, NeurIPS, CVPR, ICCV, ECCV, NeurIPS Track Datasets and Benchmarks.
+- Conference Reviewer: ICLR, NeurIPS, CVPR, ICCV, ECCV, ACCV, NeurIPS Track Datasets and Benchmarks.
 
 - Journal Reviewer: IoT, TMM, JVIS, JVCIP.
 
