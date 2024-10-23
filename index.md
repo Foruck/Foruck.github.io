@@ -2,16 +2,16 @@
 
 ## About
 
-I’m a second-year Ph.D student under the supervision of [Prof. Cewu Lu](http://mvig.sjtu.edu.cn/). Currently I am a member of Machine Vision and Intelligence Group (MVIG). Prior to that, I received my Bachelor's and Master's degrees (Computer Science) from Shanghai Jiao Tong University. My research interests include human motion understanding and activity understanding.
+I’m a third-year Ph.D student under the supervision of [Prof. Cewu Lu](http://mvig.sjtu.edu.cn/). Currently, I am a member of Machine Vision and Intelligence Group (MVIG). Prior to that, I received my Bachelor's and Master's degrees (Computer Science) from Shanghai Jiao Tong University. My research interests include human motion understanding and activity understanding.
 
 ## Publications
 
 [Google Scholar](https://scholar.google.com/citations?user=DBE-ju8AAAAJ)
 
 
-- **Xinpeng Liu\***, Haowen Hou\*, Yanchao Yang, Yong-Lu Li, and Cewu Lu (*=equal contribution). "Revisit Human-Scene Interaction via Space Occupancy" ECCV 2024. [[Paper]](https://arxiv.org/abs/2312.02700)[[Page]](https://foruck.github.io/occu-page/).
+- **Xinpeng Liu\***, Haowen Hou\*, Yanchao Yang, Yong-Lu Li, and Cewu Lu (\*=equal contribution). "Revisit Human-Scene Interaction via Space Occupancy" ECCV 2024. [[Paper]](https://arxiv.org/abs/2312.02700)[[Page]](https://foruck.github.io/occu-page/).
 
-- **Xinpeng Liu**, Yong-Lu Li, Ailing Zeng, Zizheng Zhou, Yang You, and Cewu Lu. "Bridging the Gap between Human Motion and Action Semantics via Kinematic Phrases" ECCV 2024. [[Paper]](https://arxiv.org/abs/2310.04189)[[Page](https://foruck.github.io/KP/)]
+- **Xinpeng Liu**, Yong-Lu Li\*, Ailing Zeng, Zizheng Zhou, Yang You, and Cewu Lu\* (\*=corresponding authors). "Bridging the Gap between Human Motion and Action Semantics via Kinematic Phrases" ECCV 2024. [[Paper]](https://arxiv.org/abs/2310.04189)[[Page](https://foruck.github.io/KP/)]
 
 - Yong-Lu Li*, Xiaoqian Wu*, **Xinpeng Liu**, Zehao Wang, Yiming Dou, Yikun Ji, Junyi Zhang, Yixing Li, Xudong Lu, Jingru Tan, Cewu Lu. "From Isolated Islands to Pangea: Unifying Semantic Space for Human Action Understanding." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024. [[Paper]](https://arxiv.org/pdf/2304.00553.pdf) [[Project]](https://mvig-rhos.com/pangea) [[Code]](https://github.com/DirtyHarryLYL/Sandwich)
 
@@ -35,13 +35,17 @@ I’m a second-year Ph.D student under the supervision of [Prof. Cewu Lu](http:/
 
 ## Preprints
 
+- **Xinpeng Liu**, Junxuan Liang, Zili Lin, Haowen Hou, Yong-Lu Li\*, Cewu Lu\* (\*=corresponding authors). "ImDy: Human Inverse Dynamics from Imitated Observations." [[Project]](https://foruck.github.io/ImDy/)
+
 - Yong-Lu Li, Liang Xu, **Xinpeng Liu**, Xijie Huang, Yue Xu, Mingyang Chen, Ze Ma, Shiyi Wang, Hao-Shu Fang, and Cewu Lu. "Hake: Human activity knowledge engine." arXiv preprint arXiv:1904.06539 (2019). [[Project]](http://hake-mvig.cn/home/) [[Paper]](https://arxiv.org/pdf/1904.06539) [[Code]](https://github.com/DirtyHarryLYL/HAKE-Action/tree/master)
 
 ## Teaching
 
-- **Project Tutor** for SJTU CS348: Computer Vision (2022 Fall)
+- **Project Tutor** for SJTU CS348: Computer Vision (2022 Fall, 2023 Fall)
 
-     Co-advising "DiffAnnot: Improved Neural Annotator with Denoising Diffusion Model"; Chaofan Lin, Tianyuan Qiu, Hanchong Yan, Muzi Tao. ICIPMC 2023. [[Code]](https://github.com/PaperL/Human-3D-Diffusion)
+     Co-advising "DiffAnnot: Improved Neural Annotator with Denoising Diffusion Model"; Chaofan Lin, Tianyuan Qiu, Hanchong Yan, Muzi Tao. ICIPMC 2023. [[Page]](https://github.com/PaperL/Human-3D-Diffusion)
+  
+     Co-advising "Kinematic Motion Diffusion: Towards Semantic-adaptive Motion Synthesis via Kinematic Guidance"; Leizhi Li, Jincheng Yang, Yichao Zhong, Junxian Guo. ICMSSP 2024. [[Page]](https://jerrygjx.github.io/Kinematic-Motion-Diffusion/)
 
 - **TA** for  SJTU AI3618: Virtual Reality (2023 Spring, 2024 Spring) 
 
@@ -54,3 +58,4 @@ I’m a second-year Ph.D student under the supervision of [Prof. Cewu Lu](http:/
 ## Honors
 
 - Graduate Fellowship, The 85th Computer Department Education Development Fund and Yang Yuanqing Education Fund, Aug. 2022.
+- Wu Wenjun Honor Ph.D. Fellowship, Shanghai Jiao Tong University, Sept. 2022.
