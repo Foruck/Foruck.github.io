@@ -8,7 +8,7 @@ I’m a third-year Ph.D student under the supervision of [Prof. Cewu Lu](http://
 
 ### Human inverse dynamics
 
-- **Xinpeng Liu**, Junxuan Liang, Zili Lin, Haowen Hou, Yong-Lu Li\*, Cewu Lu\* (\*=corresponding authors). "ImDy: Human Inverse Dynamics from Imitated Observations." [[Paper]](https://arxiv.org/abs/2410.17610) [[Project]](https://foruck.github.io/ImDy/)
+- **Xinpeng Liu**, Junxuan Liang, Zili Lin, Haowen Hou, Yong-Lu Li\*, Cewu Lu\* (\*=corresponding authors). "ImDy: Human Inverse Dynamics from Imitated Observations." arXiv preprint. [[Paper]](https://arxiv.org/abs/2410.17610) [[Project]](https://foruck.github.io/ImDy/)
 
 ### Human motion generation
 
