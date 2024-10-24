@@ -6,7 +6,7 @@ I’m a third-year Ph.D student under the supervision of [Prof. Cewu Lu](http://
 
 ## Publications ([Google Scholar](https://scholar.google.com/citations?user=DBE-ju8AAAAJ))
 
-### Human inverse dynamics
+### Physics in human motion
 
 - **Xinpeng Liu**, Junxuan Liang, Zili Lin, Haowen Hou, Yong-Lu Li\*, Cewu Lu\* (\*=corresponding authors). "ImDy: Human Inverse Dynamics from Imitated Observations." arXiv preprint. [[Paper]](https://arxiv.org/abs/2410.17610) [[Project]](https://foruck.github.io/ImDy/)
 
