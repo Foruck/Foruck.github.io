@@ -4,14 +4,19 @@
 
 I’m a third-year Ph.D student under the supervision of [Prof. Cewu Lu](http://mvig.sjtu.edu.cn/). Currently, I am a member of Machine Vision and Intelligence Group (MVIG). Prior to that, I received my Bachelor's and Master's degrees (Computer Science) from Shanghai Jiao Tong University. My research interests include human motion understanding and activity understanding.
 
-## Publications
+## Publications ([Google Scholar](https://scholar.google.com/citations?user=DBE-ju8AAAAJ))
 
-[Google Scholar](https://scholar.google.com/citations?user=DBE-ju8AAAAJ)
+### Human inverse dynamics
 
+- **Xinpeng Liu**, Junxuan Liang, Zili Lin, Haowen Hou, Yong-Lu Li\*, Cewu Lu\* (\*=corresponding authors). "ImDy: Human Inverse Dynamics from Imitated Observations." [[Paper]](https://arxiv.org/abs/2410.17610) [[Project]](https://foruck.github.io/ImDy/)
+
+### Human motion generation
 
 - **Xinpeng Liu\***, Haowen Hou\*, Yanchao Yang, Yong-Lu Li, and Cewu Lu (\*=equal contribution). "Revisit Human-Scene Interaction via Space Occupancy" ECCV 2024. [[Paper]](https://arxiv.org/abs/2312.02700)[[Page]](https://foruck.github.io/occu-page/).
 
 - **Xinpeng Liu**, Yong-Lu Li\*, Ailing Zeng, Zizheng Zhou, Yang You, and Cewu Lu\* (\*=corresponding authors). "Bridging the Gap between Human Motion and Action Semantics via Kinematic Phrases" ECCV 2024. [[Paper]](https://arxiv.org/abs/2310.04189)[[Page](https://foruck.github.io/KP/)]
+
+### Human action understanding
 
 - Yong-Lu Li*, Xiaoqian Wu*, **Xinpeng Liu**, Zehao Wang, Yiming Dou, Yikun Ji, Junyi Zhang, Yixing Li, Xudong Lu, Jingru Tan, Cewu Lu. "From Isolated Islands to Pangea: Unifying Semantic Space for Human Action Understanding." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024. [[Paper]](https://arxiv.org/pdf/2304.00553.pdf) [[Project]](https://mvig-rhos.com/pangea) [[Code]](https://github.com/DirtyHarryLYL/Sandwich)
 
@@ -32,10 +37,6 @@ I’m a third-year Ph.D student under the supervision of [Prof. Cewu Lu](http://
 - Yong-Lu Li, **Xinpeng Liu**, Han Lu, Shiyi Wang, Junqi Liu, Jiefeng Li, and Cewu Lu. "Detailed 2D-3D Joint Representation for Human-Object Interaction." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 10166-10175. 2020. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Detailed_2D-3D_Joint_Representation_for_Human-Object_Interaction_CVPR_2020_paper.pdf) [[Code]](https://github.com/DirtyHarryLYL/DJ-RN)
 
 - Yong-Lu Li, Liang Xu, **Xinpeng Liu**, Xijie Huang, Yue Xu, Shiyi Wang, Hao-Shu Fang, Ze Ma, Mingyang Chen, and Cewu Lu. "PaStaNet: Toward Human Activity Knowledge Engine." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 382-391. 2020. [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_PaStaNet_Toward_Human_Activity_Knowledge_Engine_CVPR_2020_paper.pdf) [[Code]](https://github.com/DirtyHarryLYL/HAKE-Action/tree/Instance-level-HAKE-Action)
-
-## Preprints
-
-- **Xinpeng Liu**, Junxuan Liang, Zili Lin, Haowen Hou, Yong-Lu Li\*, Cewu Lu\* (\*=corresponding authors). "ImDy: Human Inverse Dynamics from Imitated Observations." [[Project]](https://foruck.github.io/ImDy/)
 
 - Yong-Lu Li, Liang Xu, **Xinpeng Liu**, Xijie Huang, Yue Xu, Mingyang Chen, Ze Ma, Shiyi Wang, Hao-Shu Fang, and Cewu Lu. "Hake: Human activity knowledge engine." arXiv preprint arXiv:1904.06539 (2019). [[Project]](http://hake-mvig.cn/home/) [[Paper]](https://arxiv.org/pdf/1904.06539) [[Code]](https://github.com/DirtyHarryLYL/HAKE-Action/tree/master)
 
