@@ -8,6 +8,8 @@ I’m a third-year Ph.D student under the supervision of [Prof. Cewu Lu](http://
 
 ### Physics in human motion
 
+- **Xinpeng Liu**, Junxuan Liang, Chenshuo Zhang, Zixuan Cai, Cewu Lu, Yong-Lu Li. "Homogeneous Dynamics Space for Heterogeneous Human". arXiv preprint. [[Project]](https://foruck.github.io/HDyS/).
+
 - **Xinpeng Liu**, Junxuan Liang, Zili Lin, Haowen Hou, Yong-Lu Li\*, Cewu Lu\* (\*=corresponding authors). "ImDy: Human Inverse Dynamics from Imitated Observations." arXiv preprint. [[Paper]](https://arxiv.org/abs/2410.17610) [[Project]](https://foruck.github.io/ImDy/)
 
 ### Human motion generation
@@ -18,7 +20,11 @@ I’m a third-year Ph.D student under the supervision of [Prof. Cewu Lu](http://
 
 ### Human action understanding
 
-- Yong-Lu Li*, Xiaoqian Wu*, **Xinpeng Liu**, Zehao Wang, Yiming Dou, Yikun Ji, Junyi Zhang, Yixing Li, Xudong Lu, Jingru Tan, Cewu Lu. "From Isolated Islands to Pangea: Unifying Semantic Space for Human Action Understanding." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024. [[Paper]](https://arxiv.org/pdf/2304.00553.pdf) [[Project]](https://mvig-rhos.com/pangea) [[Code]](https://github.com/DirtyHarryLYL/Sandwich)
+- Xiaoyang Liu\*, Boran Wen\*, **Xinpeng Liu\***, Zizheng Zhou, Hongwei Fan, Cewu Lu, Lizhuang Ma, Yulong Chen, Yong-Lu Li (\*=equal contribution). "Interacted Object Grounding in Spatio-Temporal Human-Object Interactions". AAAI 2025.
+
+- Zehao Wang, Xinpeng Liu, Xiaoqian Wu, Yudonglin Zhang, Zhou Fang, Yifan Fang, Junfu Pu, Cewu Lu, Yong-Lu Li. "Verb Mirage: Unveiling and Assessing Verb Concept Hallucinations in Multimodal Large Language Models". arXiv preprint. [[Paper]](https://arxiv.org/pdf/2412.04939).
+
+- Yong-Lu Li\*, Xiaoqian Wu\*, **Xinpeng Liu**, Zehao Wang, Yiming Dou, Yikun Ji, Junyi Zhang, Yixing Li, Xudong Lu, Jingru Tan, Cewu Lu. "From Isolated Islands to Pangea: Unifying Semantic Space for Human Action Understanding." Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition. 2024. [[Paper]](https://arxiv.org/pdf/2304.00553.pdf) [[Project]](https://mvig-rhos.com/pangea) [[Code]](https://github.com/DirtyHarryLYL/Sandwich)
 
 - Siqi Liu, Yong-Lu Li, Zhou Fang, **Xinpeng Liu**, Yang You, Cewu Lu. "Primitive-based 3D Human-Object Interaction Modelling and Programming." Proceedings of the AAAI Conference on Artificial Intelligence. 2024. [[Paper]](https://arxiv.org/abs/2312.10714) [[Project]](https://mvig-rhos.com/p3haoi)
 
