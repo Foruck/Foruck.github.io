@@ -58,7 +58,7 @@ I’m a third-year Ph.D student under the supervision of [Prof. Cewu Lu](http://
 
 ## Academic Services
 
-- Conference Reviewer: ICLR, NeurIPS, CVPR, ICCV, ECCV, ACCV, NeurIPS Track Datasets and Benchmarks.
+- Conference Reviewer: ICLR, NeurIPS, ICML, CVPR, ICCV, ECCV, ACCV, NeurIPS Track Datasets and Benchmarks, AISTAT.
 
 - Journal Reviewer: IoT, TMM, JVIS, JVCIP.
 
