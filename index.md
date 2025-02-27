@@ -8,7 +8,7 @@ I’m a third-year Ph.D student under the supervision of [Prof. Cewu Lu](http://
 
 ### Physics in human motion
 
-- **Xinpeng Liu**, Junxuan Liang, Chenshuo Zhang, Zixuan Cai, Cewu Lu, Yong-Lu Li. "Homogeneous Dynamics Space for Heterogeneous Human". arXiv preprint. [[Project]](https://foruck.github.io/HDyS/).
+- **Xinpeng Liu**, Junxuan Liang, Chenshuo Zhang, Zixuan Cai, Cewu Lu, Yong-Lu Li. "Homogeneous Dynamics Space for Heterogeneous Human". CVPR 2025. [[Paper]](https://arxiv.org/abs/2412.06146) [[Project]](https://foruck.github.io/HDyS/).
 
 - **Xinpeng Liu**, Junxuan Liang, Zili Lin, Haowen Hou, Yong-Lu Li\*, Cewu Lu\* (\*=corresponding authors). "ImDy: Human Inverse Dynamics from Imitated Observations." ICLR 2025. [[Paper]](https://arxiv.org/abs/2410.17610) [[Project]](https://foruck.github.io/ImDy/)
 
