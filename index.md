@@ -14,13 +14,13 @@ I’m a third-year Ph.D student under the supervision of [Prof. Cewu Lu](http://
 
 ### Human motion generation
 
-- **Xinpeng Liu\***, Haowen Hou\*, Yanchao Yang, Yong-Lu Li, and Cewu Lu (\*=equal contribution). "Revisit Human-Scene Interaction via Space Occupancy" ECCV 2024. [[Paper]](https://arxiv.org/abs/2312.02700)[[Page]](https://foruck.github.io/occu-page/).
+- **Xinpeng Liu\***, Haowen Hou\*, Yanchao Yang, Yong-Lu Li, and Cewu Lu (\*=equal contribution). "Revisit Human-Scene Interaction via Space Occupancy" ECCV 2024. [[Paper]](https://arxiv.org/abs/2312.02700)[[Project]](https://foruck.github.io/occu-page/).
 
-- **Xinpeng Liu**, Yong-Lu Li\*, Ailing Zeng, Zizheng Zhou, Yang You, and Cewu Lu\* (\*=corresponding authors). "Bridging the Gap between Human Motion and Action Semantics via Kinematic Phrases" ECCV 2024. [[Paper]](https://arxiv.org/abs/2310.04189)[[Page](https://foruck.github.io/KP/)]
+- **Xinpeng Liu**, Yong-Lu Li\*, Ailing Zeng, Zizheng Zhou, Yang You, and Cewu Lu\* (\*=corresponding authors). "Bridging the Gap between Human Motion and Action Semantics via Kinematic Phrases" ECCV 2024. [[Paper]](https://arxiv.org/abs/2310.04189) [[Project](https://foruck.github.io/KP/)]
 
 ### Human action understanding
 
-- Xiaoyang Liu\*, Boran Wen\*, **Xinpeng Liu\***, Zizheng Zhou, Hongwei Fan, Cewu Lu, Lizhuang Ma, Yulong Chen, Yong-Lu Li (\*=equal contribution). "Interacted Object Grounding in Spatio-Temporal Human-Object Interactions". AAAI 2025.
+- Xiaoyang Liu\*, Boran Wen\*, **Xinpeng Liu\***, Zizheng Zhou, Hongwei Fan, Cewu Lu, Lizhuang Ma, Yulong Chen, Yong-Lu Li (\*=equal contribution). "Interacted Object Grounding in Spatio-Temporal Human-Object Interactions". AAAI 2025. [[Paper]](https://arxiv.org/abs/2412.19542) [[Project]](https://github.com/DirtyHarryLYL/HAKE-AVA)
 
 - Zehao Wang, Xinpeng Liu, Xiaoqian Wu, Yudonglin Zhang, Zhou Fang, Yifan Fang, Junfu Pu, Cewu Lu, Yong-Lu Li. "Verb Mirage: Unveiling and Assessing Verb Concept Hallucinations in Multimodal Large Language Models". arXiv preprint. [[Paper]](https://arxiv.org/pdf/2412.04939).
 
@@ -48,13 +48,15 @@ I’m a third-year Ph.D student under the supervision of [Prof. Cewu Lu](http://
 
 ## Teaching
 
-- **Project Tutor** for SJTU CS348: Computer Vision (2022 Fall, 2023 Fall)
+- **Project Tutor** for SJTU CS348: Computer Vision (2022 Fall, 2023 Fall, 2024 Fall)
 
      Co-advising "DiffAnnot: Improved Neural Annotator with Denoising Diffusion Model"; Chaofan Lin, Tianyuan Qiu, Hanchong Yan, Muzi Tao. ICIPMC 2023. [[Page]](https://github.com/PaperL/Human-3D-Diffusion)
   
      Co-advising "Kinematic Motion Diffusion: Towards Semantic-adaptive Motion Synthesis via Kinematic Guidance"; Leizhi Li, Jincheng Yang, Yichao Zhong, Junxian Guo. ICMSSP 2024. [[Page]](https://jerrygjx.github.io/Kinematic-Motion-Diffusion/)
 
-- **TA** for  SJTU AI3618: Virtual Reality (2023 Spring, 2024 Spring) 
+     Co-advising "KETA: Kinematic-Phrases-Enhanced Text-to-Motion Generation via Fine-grained Alignment"; Yu Jiang, Yixing Chen, Xingyang Li. ICCVML 2025. [[ArXiv]](https://arxiv.org/abs/2501.15058)
+
+- **TA** for  SJTU AI3618: Virtual Reality (2023 Spring, 2024 Spring, 2025 Spring) 
 
 ## Academic Services
 
