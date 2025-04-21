@@ -54,7 +54,7 @@ I’m a third-year Ph.D student under the supervision of [Prof. Cewu Lu](http://
   
      Co-advising "Kinematic Motion Diffusion: Towards Semantic-adaptive Motion Synthesis via Kinematic Guidance"; Leizhi Li, Jincheng Yang, Yichao Zhong, Junxian Guo. ICMSSP 2024. [[Page]](https://jerrygjx.github.io/Kinematic-Motion-Diffusion/)
 
-     Co-advising "KETA: Kinematic-Phrases-Enhanced Text-to-Motion Generation via Fine-grained Alignment"; Yu Jiang, Yixing Chen, Xingyang Li. ICCVML 2025. [[ArXiv]](https://arxiv.org/abs/2501.15058)
+     Co-advising "KETA: Kinematic-Phrases-Enhanced Text-to-Motion Generation via Fine-grained Alignment"; Yu Jiang, Yixing Chen, Xingyang Li. IJCNN 2025. [[ArXiv]](https://arxiv.org/abs/2501.15058)
 
 - **TA** for  SJTU AI3618: Virtual Reality (2023 Spring, 2024 Spring, 2025 Spring) 
 
